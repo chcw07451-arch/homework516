@@ -1,6 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-printf("Hello World!\n");
-return 0;
+    char str[200];
+    printf("请输入内容：");
+    scanf("%s",str);
+    // 输出输入的内容
+    printf("你输入的内容是：%s",str);
+    return 0;
 }

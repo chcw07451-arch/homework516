@@ -10,9 +10,16 @@ V2：使用scanf实现等效input键盘输入，读取并打印用户输入
 
 lab02.ino:闪烁代码
 
-lab02:演示视频
+lab02.mp4:演示视频
 
 ##### lab03:LED灯呼吸实验
 
 lab03.ino:呼吸灯程序
-lab03:演示视频
+lab03.mp4:演示视频
+
+##### ex02:millis函数控制LED以1HZ频率稳定闪烁
+
+ex02.ino:代码程序
+
+ex02.mp4:演示视频
+
